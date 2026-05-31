@@ -103,4 +103,4 @@ unnecessary steps while making sure the worker's body never throws or leaves was
 ### Example: Handling a financial transaction
 
 This example is illustrated in
-the [sample app](https://github.com/respawn-app/ApiResult/tree/master/app/src/main/kotlin/pro/respawn/apiresult/sample)
+the [sample app](https://github.com/respawn-llc/ApiResult/tree/master/app/src/main/kotlin/pro/respawn/apiresult/sample)

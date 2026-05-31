@@ -1,11 +1,11 @@
 # ApiResult
 
-[![CI](https://github.com/respawn-app/ApiResult/actions/workflows/ci.yml/badge.svg)](https://github.com/respawn-app/ApiResult/actions/workflows/ci.yml)
-![License](https://img.shields.io/github/license/respawn-app/ApiResult)
-![GitHub last commit](https://img.shields.io/github/last-commit/respawn-app/ApiResult)
-![Issues](https://img.shields.io/github/issues/respawn-app/ApiResult)
-![GitHub top language](https://img.shields.io/github/languages/top/respawn-app/ApiResult)
-[![CodeFactor](https://www.codefactor.io/repository/github/respawn-app/ApiResult/badge)](https://www.codefactor.io/repository/github/respawn-app/ApiResult)
+[![CI](https://github.com/respawn-llc/ApiResult/actions/workflows/ci.yml/badge.svg)](https://github.com/respawn-llc/ApiResult/actions/workflows/ci.yml)
+![License](https://img.shields.io/github/license/respawn-llc/ApiResult)
+![GitHub last commit](https://img.shields.io/github/last-commit/respawn-llc/ApiResult)
+![Issues](https://img.shields.io/github/issues/respawn-llc/ApiResult)
+![GitHub top language](https://img.shields.io/github/languages/top/respawn-llc/ApiResult)
+[![CodeFactor](https://www.codefactor.io/repository/github/respawn-llc/ApiResult/badge)](https://www.codefactor.io/repository/github/respawn-llc/ApiResult)
 [![AndroidWeekly #556](https://androidweekly.net/issues/issue-556/badge)](https://androidweekly.net/issues/issue-556/)
 
 ![badge][badge-android] ![badge][badge-jvm] ![badge][badge-js] ![badge][badge-nodejs] ![badge][badge-linux] ![badge][badge-windows] ![badge][badge-wasm] ![badge][badge-ios] ![badge][badge-mac] ![badge][badge-watchos] ![badge][badge-tvos]

@@ -20,10 +20,10 @@ object Config {
     const val patch = 0
     const val postfix = "" // include dash
     const val versionName = "$majorRelease.$minorRelease.$patch$postfix"
-    const val url = "https://github.com/respawn-app/ApiResult"
+    const val url = "https://github.com/respawn-llc/ApiResult"
     const val licenseName = "The Apache Software License, Version 2.0"
     const val licenseUrl = "http://www.apache.org/licenses/LICENSE-2.0.txt"
-    const val scmUrl = "https://github.com/respawn-app/ApiResult.git"
+    const val scmUrl = "https://github.com/respawn-llc/ApiResult.git"
     const val name = "ApiResult"
 
     @Suppress("MaxLineLength")
